@@ -43,6 +43,15 @@ Usei a função IF porque possuíamos apenas parte da informação da média do 
 
 (OBS: Vou estudar para verificar o sistema de pesos dentro dessa função e tornar mais complexo o sistema de salário, por exemplo, aumentar alguns dependendo da escolaridade ou idade.)
 
+Edit: Provável reformulaçao do cálculo para a melhor compreensao
+
 ##### Tabela de Data de demissão
 
-Ver média ponderada.
+- Analisar média ponderada
+  - Porcentagem de corte de funcionário, de modo que nao altere o porte da organizaçao
+  - Obs: verificar possóveis pesos de corte de cada setor e possíveis influencias
+- Verificar variáveis
+  - Analise de cada fator (coluna) da tabela que influencia a demissao de cada funcionário
+  - pesquisa de baixa no setor
+- formular algorítimo para cálculo
+  - Estabelecer um algorítimo completo para a criaçao da nova coluna
